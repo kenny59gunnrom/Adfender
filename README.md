@@ -204,4 +204,4 @@ This repository serves as the official landing page for AdFender. The software i
 **Get the most recent version of AdFender today!**
 
 ---
-**Last updated:** 2026-11-11 22:24:11 UTC
+**Last updated:** 2026-11-12 03:31:38 UTC
